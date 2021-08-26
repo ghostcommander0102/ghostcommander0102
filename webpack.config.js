@@ -7,7 +7,7 @@ const ExtractTextPlugin = require( 'extract-text-webpack-plugin' );
 const isProd = ( process.env.NODE_ENV === 'production' );
 
 // dev server and globals styles
-const serverHost = '192.168.103.35';
+const serverHost = 'localhost';
 const serverPort = 8000;
 const serverRoot = path.join( __dirname, '/' );
 const appEntry   = './src/app.js';
