@@ -1,6 +1,6 @@
 [mit]: http://www.opensource.org/licenses/mit-license.php
 [repo]: https://github.com/ghostcommander0102/ghostcommander0102/
-[demo]: https://ghostcommander0102.github.io/ghostcommander0102/
+[demo]: https://binance-theme.herokuapp.com//
 [vue]: https://github.com/vuejs/vue
 [node]: https://nodejs.org/
 
