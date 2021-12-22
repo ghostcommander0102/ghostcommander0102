@@ -4,8 +4,9 @@
 [vue]: https://github.com/vuejs/vue
 [node]: https://nodejs.org/
 
-# Binance Price Watch Web-App
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+# Unity Game & Blockchain Developer
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostcommander0102&show_icons=true&theme=radical)
+
 ![Binnace-Watch](https://github.com/ghostcommander0102/ghostcommander0102/blob/main/thumb.jpg)
 
 ![NFT Website](https://github.com/ghostcommander0102/ghostcommander0102/blob/main/NFTWebsite.png)
