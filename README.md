@@ -5,7 +5,7 @@
 [node]: https://nodejs.org/
 
 # Binance Price Watch Web-App
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 ![Binnace-Watch](https://github.com/ghostcommander0102/ghostcommander0102/blob/main/thumb.jpg)
 
 ![NFT Website](https://github.com/ghostcommander0102/ghostcommander0102/blob/main/NFTWebsite.png)
