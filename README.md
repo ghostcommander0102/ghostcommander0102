@@ -5,9 +5,8 @@
 [node]: https://nodejs.org/
 
 # Unity Game & Blockchain Developer
-# [![waylon walker header](https://raw.githubusercontent.com/ghostcommander0102/ghostcommander0102/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostcommander0102&show_icons=true&theme=radical)
+![Anurag's GitHub stats]<p align="center">(https://github-readme-stats.vercel.app/api?username=ghostcommander0102&show_icons=true&theme=radical)</p>
 
 ![Binnace-Watch](https://github.com/ghostcommander0102/ghostcommander0102/blob/main/thumb.jpg)
 
