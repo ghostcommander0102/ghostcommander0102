@@ -30,9 +30,7 @@
 ## NFTMarketPlace
 <p align="center"><img src="https://github.com/ghostcommander0102/ghostcommander0102/blob/main/NFTWebsite.png" alt="" /></p>
 
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1NTz4knhGJY79CvGEJwpRW8MeoRq1ISg6/view?usp=sharing" type="video/mp4">
-</video>
+<img src="https://drive.google.com/file/d/10_mS_-Cf1HCdTk0MQieMaZqtNgLC-GJz/view?usp=sharing" alt="" />
 
 ### License
 
