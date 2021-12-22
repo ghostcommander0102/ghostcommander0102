@@ -6,7 +6,7 @@
 
 # Unity Game & Blockchain Developer
 
-![Anurag's GitHub stats]<p align="center">(https://github-readme-stats.vercel.app/api?username=ghostcommander0102&show_icons=true&theme=radical)</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ghostcommander0102&show_icons=true&theme=radical" alt="" /></p>
 
 ![Binnace-Watch](https://github.com/ghostcommander0102/ghostcommander0102/blob/main/thumb.jpg)
 
