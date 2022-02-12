@@ -5,13 +5,19 @@
 [node]: https://nodejs.org/
 
 # Unity Game & Blockchain Developer
+<a href="https://guryanovvsg.wixsite.com/my-site-1">
+  <img align="left" alt="Sergey Guryanov's Website" width="22px" src="https://avatars.githubusercontent.com/u/87842727?s=40&v=4" />
+</a>
+<a href="https://www.freelancer.com/u/guryanovssg">
+  <img align="left" alt="Sergey Guryanov's Freelancer Profile" width="22px" src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" />
+</a>
 <a href="https://join.skype.com/invite/zO57Q0wH0oPd">
   <img align="left" alt="Sergey Guryanov's Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" />
 </a>
 <a href="https://facebook.com/mrguryanov">
   <img align="left" alt="Sergey Guryanov | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/kz/mrguryanov/">
+<a href="https://www.linkedin.com/kz/mrguryanov">
   <img align="left" alt="Sergey Guryanov LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://t.me/ghostcommander0102">
