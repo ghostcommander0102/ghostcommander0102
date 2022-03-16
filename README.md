@@ -15,7 +15,7 @@
   <img align="left" alt="Sergey Guryanov's Skype" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Skype_logo_%282019%E2%80%93present%29.svg" />
 </a>
 <a href="https://facebook.com/mrguryanov">
-  <img align="left" alt="Sergey Guryanov | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Sergey Guryanov | Facebook" width="22px" src="https://cdn.iconscout.com/icon/free/png-128/facebook-262-721949.png" />
 </a>
 <a href="https://www.linkedin.com/kz/mrguryanov">
   <img align="left" alt="Sergey Guryanov LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
