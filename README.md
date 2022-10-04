@@ -5,7 +5,7 @@
 [node]: https://nodejs.org/
 
 # Experienced Dev!
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ghostcommander0102&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ghostcommander0102&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
