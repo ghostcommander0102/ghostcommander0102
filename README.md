@@ -24,9 +24,11 @@
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ghostcommander0102)
 [![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/ghostcommander0102)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ghostcommander0102)
+[![c#](https://img.shields.io/badge/C#-FFD43B?style=for-the-badge&logo=c#&logoColor=darkgreen)](https://github.com/ghostcommander0102)
 
 ### 🧩 Frameworks/Libraries
 
+[![Unity3D](https://img.shields.io/badge/Unity3D-563D7C?style=for-the-badge&logo=unity3d&logoColor=white)](https://github.com/ghostcommander0102)
 [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ghostcommander0102)
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/ghostcommander0102)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/ghostcommander0102)
