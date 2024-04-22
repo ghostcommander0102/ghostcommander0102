@@ -24,7 +24,7 @@
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ghostcommander0102)
 [![plsql](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/ghostcommander0102)
 [![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ghostcommander0102)
-[![c#](https://img.shields.io/badge/C#-FFD43B?style=for-the-badge&logo=c#&logoColor=darkgreen)](https://github.com/ghostcommander0102)
+[![c#](https://img.shields.io/badge/C&#35-FFD43B?style=for-the-badge&logo=c&#35&logoColor=darkgreen)](https://github.com/ghostcommander0102)
 
 ### 🧩 Frameworks/Libraries
 
